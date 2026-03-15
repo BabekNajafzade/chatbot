@@ -1,0 +1,9 @@
+openai
+python-telegram-bot
+pandas
+openpyxl
+numpy
+faiss-cpu
+rank-bm25
+scikit-learn
+python-dotenv
